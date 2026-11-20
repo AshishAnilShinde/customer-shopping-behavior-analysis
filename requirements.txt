@@ -1,0 +1,16 @@
+# Core data analysis
+pandas>=3.0
+numpy>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+
+# Database connection (SQL Server via ODBC)
+sqlalchemy>=2.0
+pyodbc>=5.0
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.0
+
+# Optional: only needed for the commented-out PostgreSQL cell in the notebook
+# psycopg2-binary>=2.9
